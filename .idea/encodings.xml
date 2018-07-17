@@ -4,5 +4,6 @@
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/base-config" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/base-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/base-hystrix" charset="UTF-8" />
   </component>
 </project>

@@ -31,10 +31,18 @@
         <processorPath useClasspath="true" />
         <module name="base-config" />
       </profile>
+      <profile default="false" name="Annotation profile for base-hystrix" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="base-hystrix" />
+      </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="base-config" target="1.8" />
       <module name="base-eureka" target="1.8" />
+      <module name="base-hystrix" target="1.8" />
       <module name="base-microservice" target="1.8" />
     </bytecodeTargetLevel>
   </component>

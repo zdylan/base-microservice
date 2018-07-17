@@ -11,6 +11,7 @@
     <modules>
         <module>base-eureka</module>
         <module>base-config</module>
+        <module>base-hystrix</module>
     </modules>
 
     <properties>

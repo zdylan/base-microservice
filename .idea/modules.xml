@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/base-config/base-config.iml" filepath="$PROJECT_DIR$/base-config/base-config.iml" />
       <module fileurl="file://$PROJECT_DIR$/base-eureka/base-eureka.iml" filepath="$PROJECT_DIR$/base-eureka/base-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base-hystrix/base-hystrix.iml" filepath="$PROJECT_DIR$/base-hystrix/base-hystrix.iml" />
       <module fileurl="file://$PROJECT_DIR$/base-microservice.iml" filepath="$PROJECT_DIR$/base-microservice.iml" />
     </modules>
   </component>
